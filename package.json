@@ -25,6 +25,7 @@
         "angular",
         "node"
     ],
+    
     "maintainers": [
         {
             "name": "Ferdi Koomen",
